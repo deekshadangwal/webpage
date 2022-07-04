@@ -1,4 +1,4 @@
-# About me
+# About
 
 I am a Research Scientist at Reality Labs Research, Meta and I am interested in the design of private computer systems and applications. My interdisciplinary research spans computer architecture, privacy, computer vision, and machine learning. I received my PhD in Computer Science at UC Santa Barbara where I studied computer architecture with Prof. Tim Sherwood.  
 
@@ -6,8 +6,8 @@ During my PhD, I have explored the privacy of program traces where the intent is
 
 During my internship at Facebook Reality Labs Research, I worked on building privacy into AR/VR pipelines. With a novel reverse engineering attack, I demonstrated that feature descriptors, previously considered safe to share, can be used to reconstruct raw user images. I present mitigations that trade off privacy (quality of reconstruction) and utility (in terms of localization accuracy). At Microsoft Research, I developed an automated framework for resource- and architecture-aware graph partitioning and fine tuning quantized neural network layers on the Brainwave NPU.
 
-![Image of fast.ai logo](images/logo.png)
+<!-- ![Image of fast.ai logo](images/logo.png) -->
 
-## This is a title
+# Publications
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
