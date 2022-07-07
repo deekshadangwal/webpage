@@ -1,6 +1,6 @@
 # About
 
-![Deeksha Dangwal](images/profile.jpeg)
+![Deeksha Dangwal](images/small.jpeg)
 
 I am a Research Scientist at Reality Labs Research, Meta and I am interested in the design of private computer systems and applications. My interdisciplinary research spans computer architecture, privacy, computer vision, and machine learning. I received my PhD in Computer Science at UC Santa Barbara where I studied computer architecture with Prof. Tim Sherwood.  
 
